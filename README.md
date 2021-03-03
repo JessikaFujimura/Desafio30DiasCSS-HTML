@@ -24,7 +24,7 @@ Este desafio foi proposto per [Milena Caranjo](https://github.com/MilenaCarecho/
 
 Loading animado
 
-![Loading animado](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/main/1Dia/video.gif)
+![Loading animado](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/main/2Dia/video.gif)
 
 #### **Conceitos utilizados**
 

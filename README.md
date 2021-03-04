@@ -19,7 +19,6 @@ Este desafio foi proposto per [Milena Caranjo](https://github.com/MilenaCarecho/
 * [hover](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:hover)
 * [nth-child](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child)
 
-
 ### **2° Dia**
 
 Loading animado
@@ -30,3 +29,15 @@ Loading animado
 
 * [Box-shadow](https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-shadow) 
 * [Animation](https://developer.mozilla.org/pt-BR/docs/Web/CSS/animation)
+
+
+### **3° Dia**
+
+Animação com mudança de cor
+
+![Mudança de cor](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/main/3Dia/video.gif)
+
+#### **Conceitos utilizados**
+
+* [Overflow](https://developer.mozilla.org/pt-BR/docs/Web/CSS/overflow) 
+* [WhiteSpace](https://developer.mozilla.org/pt-BR/docs/Web/CSS/white-space)

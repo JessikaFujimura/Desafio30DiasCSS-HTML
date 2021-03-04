@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+
+section {
+  position: absolute;
+  background: #eaffae;
+  width: 50%;
+  height: 50%;
+  overflow: hidden;
+  border: 2rem double black;
+}
+
+.sliding {
+  position: absolute;
+  top: 50%;
+  white-space: nowrap;
+  overflow: hidden;
+  font-size: 10rem;
+  font-family: arial black;
+  animation: animate 20s linear infinite;
+}
+
+.wrapper {
+  overflow: hidden;
+  position: absolute;
+  height: 100%;
+  width: 50%;
+  background: #f55757;
+  color: #eaffae;
+  border-right: 1px solid black;
+}
+
+
+@keyframes animate {
+  from {
+    transform: translate(0, -50%);
+  }
+  to {
+    transform: translate(-50%, -50%);
+  }
+}

@@ -41,3 +41,16 @@ Animação com mudança de cor
 
 * [Overflow](https://developer.mozilla.org/pt-BR/docs/Web/CSS/overflow) 
 * [WhiteSpace](https://developer.mozilla.org/pt-BR/docs/Web/CSS/white-space)
+
+
+### **4° Dia**
+
+Botão com efeitos
+
+![Efeito hover](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/main/4Dia/video.gif)
+
+#### **Conceitos utilizados**
+
+* [::before](https://developer.mozilla.org/en-US/docs/Web/CSS/::before) 
+* [::after](https://developer.mozilla.org/en-US/docs/Web/CSS/::after) 
+* [skewX](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/skewX)

@@ -54,3 +54,14 @@ Botão com efeitos
 * [::before](https://developer.mozilla.org/en-US/docs/Web/CSS/::before) 
 * [::after](https://developer.mozilla.org/en-US/docs/Web/CSS/::after) 
 * [skewX](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/skewX)
+
+### **5° Dia**
+
+Efeito de pulsar
+
+![Efeito de pulsar](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/49d6ccd3f19c5f1b627021515f76c35422cef798/5Dia/video.gif)
+
+#### **Conceitos utilizados**
+
+* [Box-shadow](https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-shadow)  
+* [Animation](https://developer.mozilla.org/pt-BR/docs/Web/CSS/animation)

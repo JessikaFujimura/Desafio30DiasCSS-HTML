@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pulse {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: rgb(52, 53, 53);
+    color: #fff;
+    font-size: 2rem;
+    line-height: 200px;
+    text-align: center;
+    animation: animate 3s linear infinite;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+@keyframes animate {
+    0% {
+        box-shadow: 0 0 0 0 rgba(0, 255, 110, 0.7), 0 0 0 0 rgba(0,0,0,0.7);
+        color: rgba(0, 255, 110, 0.7);
+    }
+    40% {
+        box-shadow: 0 0 0 100px rgba(0,0,0, 0 ), 0 0 0 0 rgba(194, 16, 218, 0.7);
+        color: rgba(194, 16, 218, 0.7);
+    }
+    80% {
+        box-shadow: 0 0 0 100px rgba(0,0,0,0), 0 0 0 50px rgba(0,0,0, 0)
+    }
+    100%{
+        box-shadow: 0 0 0 0 rgba(0,0,0,0), 0 0 0 50px rgba(0,0,0, 0)
+    }
+}

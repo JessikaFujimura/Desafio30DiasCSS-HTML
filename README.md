@@ -65,3 +65,15 @@ Efeito de pulsar
 
 * [Box-shadow](https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-shadow)  
 * [Animation](https://developer.mozilla.org/pt-BR/docs/Web/CSS/animation)
+
+### **6° Dia**
+
+Efeito de piscar
+
+![Efeito de piscar](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/32918a14cbe01ef3f0561435e210d5b67f95df52/6Dia/video.gif)
+
+#### **Conceitos utilizados**
+
+* [letter-spacing](https://developer.mozilla.org/en-US/docs/Web/CSS/letter-spacing)  
+* [text-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow)
+* [::nth-child](https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-child)

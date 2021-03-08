@@ -82,7 +82,7 @@ Efeito de piscar
 
 Loader animado
 
-![Loader animado](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/98b5742ce42cc7d6290e4d712d3164a1e7f9e765/7Dia/video.gif)
+![Loader animado](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/d89e788da05e45c22c7119a535a0782c711f57b5/7Dia/video.gif)
 
 #### **Conceitos utilizados**
 

@@ -77,3 +77,15 @@ Efeito de piscar
 * [letter-spacing](https://developer.mozilla.org/en-US/docs/Web/CSS/letter-spacing)  
 * [text-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow)
 * [::nth-child](https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-child)
+
+### **7° Dia**
+
+Loader animado
+
+![Loader animado](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/main/7Dia/video.gif)
+
+#### **Conceitos utilizados**
+
+* [Position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)  
+* [Animation](https://developer.mozilla.org/pt-BR/docs/Web/CSS/animation)
+* [::nth-child](https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-child)

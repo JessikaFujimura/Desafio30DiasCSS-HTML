@@ -89,3 +89,16 @@ Loader animado
 * [Position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)  
 * [Animation](https://developer.mozilla.org/pt-BR/docs/Web/CSS/animation)
 * [::nth-child](https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-child)
+
+### **8° Dia**
+
+Coração batendo
+
+![Coração batendo](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/main/8Dia/video.gif)
+
+#### **Conceitos utilizados**
+
+* [::before](https://developer.mozilla.org/en-US/docs/Web/CSS/::before) 
+* [::after](https://developer.mozilla.org/en-US/docs/Web/CSS/::after)  
+* [Transform](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform)
+* [Scale()](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/scale())

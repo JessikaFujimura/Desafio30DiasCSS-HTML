@@ -35,7 +35,7 @@ Este desafio foi proposto per [Milena Caranjo](https://github.com/MilenaCarecho/
 * [hover](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:hover)
 * [nth-child](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:nth-child)
 
-### **2° Dia**
+### **[2° Dia](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/2Dia)**
 
 Loading animado
 
@@ -47,7 +47,7 @@ Loading animado
 * [Animation](https://developer.mozilla.org/pt-BR/docs/Web/CSS/animation)
 
 
-### **3° Dia**
+### **[3° Dia]((https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/3Dia))**
 
 Animação com mudança de cor
 
@@ -59,7 +59,7 @@ Animação com mudança de cor
 * [WhiteSpace](https://developer.mozilla.org/pt-BR/docs/Web/CSS/white-space)
 
 
-### **4° Dia**
+### **[4° Dia]((https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/4Dia))**
 
 Botão com efeitos
 
@@ -71,7 +71,7 @@ Botão com efeitos
 * [::after](https://developer.mozilla.org/en-US/docs/Web/CSS/::after) 
 * [skewX](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/skewX)
 
-### **5° Dia**
+### **[5° Dia]((https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/5Dia))**
 
 Efeito de pulsar
 
@@ -82,7 +82,7 @@ Efeito de pulsar
 * [Box-shadow](https://developer.mozilla.org/pt-BR/docs/Web/CSS/box-shadow)  
 * [Animation](https://developer.mozilla.org/pt-BR/docs/Web/CSS/animation)
 
-### **6° Dia**
+### **[6° Dia]((https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/6Dia)**
 
 Efeito de piscar
 
@@ -94,7 +94,7 @@ Efeito de piscar
 * [text-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow)
 * [::nth-child](https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-child)
 
-### **7° Dia**
+### **[7° Dia]((https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/7Dia)**
 
 Loader animado
 
@@ -106,7 +106,7 @@ Loader animado
 * [Animation](https://developer.mozilla.org/pt-BR/docs/Web/CSS/animation)
 * [::nth-child](https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-child)
 
-### **8° Dia**
+### **[8° Dia]((https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/8Dia)**
 
 Coração batendo
 
@@ -119,7 +119,7 @@ Coração batendo
 * [Transform](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform)
 * [Scale()](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/scale())
 
-### **9° Dia**
+### **[9° Dia]((https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/9Dia)**
 
 Pêndulo de Newton
 

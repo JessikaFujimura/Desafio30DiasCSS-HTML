@@ -1,12 +1,28 @@
 # Desafio 30 dias de CSS
 
-## Descrição
+## Descrição do projeto
 
-Este desafio foi proposto per [Milena Caranjo](https://github.com/MilenaCarecho/30diasDeCSS#id01). São 30 minis projetos a serem desenvolvidos utilizando HTML e CSS.
+Este desafio foi proposto per [Milena Caranjo](https://github.com/MilenaCarecho/30diasDeCSS#id01). São 30 minis projetos a serem desenvolvidos utilizando HTML5 e CSS3.
 
-### **1° Dia**
+## Status do projeto 
 
-Ícone de mídias sociais em camada
+> Em desenvolvimento 
+
+## Índice dos desafios
+
+* [1º Dia - Ícone de mídias sociais em camadas](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#1-dia)
+* [2º Dia - Loading animado](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#2-dia)
+* [3º Dia - Animação com mudança de cor](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#3-dia)
+* [4º Dia - Botão com efeitos](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#4-dia)
+* [5º Dia - Efeito de pulsar](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#5-dia)
+* [6º Dia - Efeito de piscar](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#6-dia)
+* [7º Dia - Loader animado](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#7-dia)
+* [8º Dia - Coração batendo](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#8-dia)
+* [9º Dia - Pêndulo de Newton](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#9-dia)
+
+## **[1° Dia](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/1Dia)**
+
+Ícone de mídias sociais em camadas
 
 ![Resultado](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/main/1Dia/video.gif)
 

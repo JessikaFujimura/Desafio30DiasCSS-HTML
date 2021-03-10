@@ -102,3 +102,17 @@ Coração batendo
 * [::after](https://developer.mozilla.org/en-US/docs/Web/CSS/::after)  
 * [Transform](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform)
 * [Scale()](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/scale())
+
+### **9° Dia**
+
+Pêndulo de Newton
+
+![Pêndulo de Newton](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/main/9%C2%BADia/video.gif)
+
+#### **Conceitos utilizados**
+
+* [::before](https://developer.mozilla.org/en-US/docs/Web/CSS/::before) 
+* [:first-child](https://developer.mozilla.org/en-US/docs/Web/CSS/:first-child)  
+* [:last-child](https://developer.mozilla.org/en-US/docs/Web/CSS/:last-child)  
+* [transform-origin](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin)
+* [Transform](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform)

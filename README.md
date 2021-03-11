@@ -19,6 +19,7 @@ Este desafio foi proposto per [Milena Caranjo](https://github.com/MilenaCarecho/
 * [7º Dia - Loader animado](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#7-dia)
 * [8º Dia - Coração batendo](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#8-dia)
 * [9º Dia - Pêndulo de Newton](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#9-dia)
+* [10º Dia - Animação com texto](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#10-dia)
 
 ## **[1° Dia](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/1Dia)**
 
@@ -132,3 +133,21 @@ Pêndulo de Newton
 * [:last-child](https://developer.mozilla.org/en-US/docs/Web/CSS/:last-child)  
 * [transform-origin](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-origin)
 * [Transform](https://developer.mozilla.org/pt-BR/docs/Web/CSS/transform)
+
+
+### **[10° Dia](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/10Dia)**
+
+Animação com texto
+
+![Animação com texto](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/main/10Dia/video.gif)
+
+#### **Conceitos utilizados**
+
+* [::before](https://developer.mozilla.org/en-US/docs/Web/CSS/::before) 
+* [content](https://developer.mozilla.org/en-US/docs/Web/CSS/content)  
+* [url()](https://developer.mozilla.org/en-US/docs/Web/CSS/url())
+
+#### ** Fontes externas**
+
+* [Google fonts](https://fonts.google.com/specimen/DotGothic16?preview.text_type=custom)
+* [Thenounproject](https://thenounproject.com/)

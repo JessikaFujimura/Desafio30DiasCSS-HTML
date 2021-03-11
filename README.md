@@ -124,7 +124,7 @@ Coração batendo
 
 Pêndulo de Newton
 
-![Pêndulo de Newton](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/main/9%C2%BADia/video.gif)
+![Pêndulo de Newton](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/1979a21d955514bd584c1cf5b911ddc281025468/9Dia/video.gif)
 
 #### **Conceitos utilizados**
 

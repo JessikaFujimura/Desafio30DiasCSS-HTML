@@ -151,3 +151,16 @@ Animação com texto
 
 * [Google fonts](https://fonts.google.com/specimen/DotGothic16?preview.text_type=custom)
 * [Thenounproject](https://thenounproject.com/)
+
+### **[11° Dia](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/11Dia)**
+
+Botão com efeito hover
+
+![Botão com efeito hover](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/main/11Dia/video.gif)
+
+#### **Conceitos utilizados**
+
+* [::before](https://developer.mozilla.org/en-US/docs/Web/CSS/::before) 
+* [hover](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:hover)
+* [transition](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
+

@@ -22,6 +22,7 @@ Este desafio foi proposto per [Milena Caranjo](https://github.com/MilenaCarecho/
 * [10º Dia - Animação com texto](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#10-dia)
 * [11º Dia - Botão com efeito hover](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#11-dia)
 * [12º Dia - Efeito de preenchimento ao passar o mouse](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#12-dia)
+* [13º Dia - Loading com efeito](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#13-dia)
 
 ## **[1° Dia](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/1Dia)**
 
@@ -178,4 +179,17 @@ Efeito de preenchimento ao passar o mouse
 * [opacity](https://developer.mozilla.org/pt-BR/docs/Web/CSS/opacity) 
 * [hover](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:hover)
 * [transition](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
+
+### **[13° Dia](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/13Dia)**
+
+Loading com efeito
+
+![Loading com efeito](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/main/13Dia/video.gif)
+
+#### **Conceitos utilizados**
+
+* [opacity](https://developer.mozilla.org/pt-BR/docs/Web/CSS/opacity) 
+* [letter-spacing](https://developer.mozilla.org/en-US/docs/Web/CSS/letter-spacing)
+* [::nth-child](https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-child)
+* [Animation](https://developer.mozilla.org/pt-BR/docs/Web/CSS/animation)
 

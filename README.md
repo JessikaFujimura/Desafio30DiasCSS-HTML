@@ -23,6 +23,7 @@ Este desafio foi proposto per [Milena Caranjo](https://github.com/MilenaCarecho/
 * [11º Dia - Botão com efeito hover](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#11-dia)
 * [12º Dia - Efeito de preenchimento ao passar o mouse](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#12-dia)
 * [13º Dia - Loading com efeito](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#13-dia)
+* [14º Dia - Fundo de texto animado](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#14-dia)
 
 ## **[1° Dia](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/1Dia)**
 
@@ -193,3 +194,17 @@ Loading com efeito
 * [::nth-child](https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-child)
 * [Animation](https://developer.mozilla.org/pt-BR/docs/Web/CSS/animation)
 
+### **[14° Dia](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/14Dia)**
+
+Fundo de texto animado
+
+![Fundo de texto animado](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/main/14Dia/video.gif)
+
+#### **Conceitos utilizados**
+
+* [background-clip](https://developer.mozilla.org/en-US/docs/Web/CSS/background-clip) 
+* [background-position](https://developer.mozilla.org/en-US/docs/Web/CSS/background-position)  
+
+#### ** Fontes externas**
+
+* [GIPHY](https://giphy.com/)

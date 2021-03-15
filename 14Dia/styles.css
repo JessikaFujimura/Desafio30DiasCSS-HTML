@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: whitesmoke;
+}
+
+.box {
+    background-image: url(https://media.istockphoto.com/vectors/dog-paw-seamless-pattern-vector-cat-footprint-tile-background-repeat-vector-id1010305980?k=6&m=1010305980&s=170667a&w=0&h=JuqlBN2dQsm_Rfmj6qu-KPtTW2DGVE8Gg4Arzd1TO4w=);
+    text-transform: uppercase;
+    background-clip: text;
+    color: transparent;
+    -webkit-background-clip: text;
+    animation: move 3s linear infinite alternate;
+    font-weight: 900;
+    font-size: 8rem;
+}
+
+@keyframes move {
+    0% {
+        background-position: top left;
+    }
+    100% {
+        background-position: top right;
+    }
+}

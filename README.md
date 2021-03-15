@@ -198,7 +198,7 @@ Loading com efeito
 
 Fundo de texto animado
 
-![Fundo de texto animado](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/main/14Dia/video.gif)
+![Fundo de texto animado](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/61ff57d33600eafb40488df601d154f3bddd2713/14Dia/video.gif)
 
 #### **Conceitos utilizados**
 

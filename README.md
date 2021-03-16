@@ -24,6 +24,7 @@ Este desafio foi proposto per [Milena Caranjo](https://github.com/MilenaCarecho/
 * [12º Dia - Efeito de preenchimento ao passar o mouse](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#12-dia)
 * [13º Dia - Loading com efeito](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#13-dia)
 * [14º Dia - Fundo de texto animado](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#14-dia)
+* [15º Dia - Texto flutuante](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#15-dia)
 
 ## **[1° Dia](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/1Dia)**
 
@@ -198,7 +199,7 @@ Loading com efeito
 
 Fundo de texto animado
 
-![Fundo de texto animado](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/61ff57d33600eafb40488df601d154f3bddd2713/14Dia/video.gif)
+![Fundo de texto animado](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/58d8fbc87e585d7cfd9be788fb6efeb86d477c12/14Dia/video.gif)
 
 #### **Conceitos utilizados**
 
@@ -208,3 +209,15 @@ Fundo de texto animado
 #### ** Fontes externas**
 
 * [GIPHY](https://giphy.com/)
+
+### **[15° Dia](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/15Dia)**
+
+Texto flutuante
+
+![Texto flutuante](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/main/15Dia/video.gif)
+
+#### **Conceitos utilizados**
+
+* [rotate](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate()) 
+* [letter-spacing](https://developer.mozilla.org/en-US/docs/Web/CSS/letter-spacing)
+* [text-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow)

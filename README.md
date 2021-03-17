@@ -25,6 +25,7 @@ Este desafio foi proposto per [Milena Caranjo](https://github.com/MilenaCarecho/
 * [13º Dia - Loading com efeito](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#13-dia)
 * [14º Dia - Fundo de texto animado](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#14-dia)
 * [15º Dia - Texto flutuante](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#15-dia)
+* [16º Dia - Olhos abre e fecha](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#16-dia)
 
 ## **[1° Dia](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/1Dia)**
 
@@ -221,3 +222,17 @@ Texto flutuante
 * [rotate](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate()) 
 * [letter-spacing](https://developer.mozilla.org/en-US/docs/Web/CSS/letter-spacing)
 * [text-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/text-shadow)
+
+
+### **[16° Dia](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/16Dia)**
+
+Olhos abre e fecha
+
+![Olhos abre e fecha](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/main/16Dia/video.gif)
+
+#### **Conceitos utilizados**
+
+* [::before](https://developer.mozilla.org/en-US/docs/Web/CSS/::before) 
+* [hover](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:hover)
+* [transition](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
+* [transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)

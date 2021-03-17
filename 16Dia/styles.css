@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+.pair {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.eye {
+    width: 120px;
+    height: 60px;
+    border-radius: 80%;
+    margin: 0 10px;
+    background-color: rgb(247, 204, 239);
+    position: relative;
+    cursor: pointer;
+    border: 2px solid rgb(0, 0, 0);
+    overflow: hidden;
+}
+
+
+.eye::before {
+    content: "";
+    background-image: url(./assets/bolinha60.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: whitesmoke;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    transition: all 1s;
+    transform: translateY(100%);
+}
+
+.eye:hover::before {
+    transform: translateY(0%);
+}

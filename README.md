@@ -26,6 +26,8 @@ Este desafio foi proposto per [Milena Caranjo](https://github.com/MilenaCarecho/
 * [14º Dia - Fundo de texto animado](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#14-dia)
 * [15º Dia - Texto flutuante](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#15-dia)
 * [16º Dia - Olhos abre e fecha](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#16-dia)
+* [17º Dia - Loader animado](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#17-dia)
+
 
 ## **[1° Dia](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/1Dia)**
 
@@ -236,3 +238,13 @@ Olhos abre e fecha
 * [hover](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:hover)
 * [transition](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
 * [transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
+### **[17° Dia](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/17Dia)**
+
+Loader animado
+
+![Loader animado](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/main/17Dia/video.gif)
+
+#### **Conceitos utilizados**
+* [transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
+* [rotateX](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotateX())
+* [rotateY](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotateY())

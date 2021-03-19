@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Harry';
+    src: URL('./Harry_Potter/HARRP___.TTF') format('truetype');
+  }
+
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    font-family: 'Harry';
+    background-image: url('https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp1850833.png&f=1&nofb=1');
+    background-size: cover;
+}
+
+section {
+    display: flex;
+    flex-direction: row;
+}
+
+iframe {
+    position: absolute;
+    top: 10vh;
+}
+
+.box {
+    width: 23vw;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+}
+
+ul li {
+    font-size: 4rem;
+    font-weight: 800;
+    list-style: none;
+    color: rgb(116, 19, 19);
+    letter-spacing: 20px;
+    transition: 3s;
+}
+
+ul:hover li{
+    transform: rotate(360deg) translateY(-100px);
+    opacity: 0;
+    filter: blur(5px);
+    color: gold;
+    
+}
+
+ul li:nth-child(1){
+    transition-delay: 0s;
+}
+ul li:nth-child(2){
+    transition-delay: 0.5s;
+}
+ul li:nth-child(3){
+    transition-delay: 1s;
+}
+ul li:nth-child(4){
+    transition-delay: 1.5s;
+}
+ul li:nth-child(5){
+    transition-delay: 2s;
+}
+ul li:nth-child(6){
+    transition-delay: 2.5s;
+}

@@ -27,6 +27,7 @@ Este desafio foi proposto per [Milena Caranjo](https://github.com/MilenaCarecho/
 * [15º Dia - Texto flutuante](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#15-dia)
 * [16º Dia - Olhos abre e fecha](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#16-dia)
 * [17º Dia - Loader animado](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#17-dia)
+* [18º Dia - Texto esfumaçado](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#18-dia)
 
 
 ## **[1° Dia](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/1Dia)**
@@ -248,3 +249,20 @@ Loader animado
 * [transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
 * [rotateX](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotateX())
 * [rotateY](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotateY())
+
+### **[18° Dia](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/18Dia)**
+
+Texto esfumaçado
+
+![Texto esfumaçado](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/main/18Dia/video.gif)
+
+#### **Conceitos utilizados**
+
+* [transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
+* [rotate](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate())
+* [filter](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function) 
+* [blur()](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/blur())  
+
+#### ** Fontes externas**
+
+* [GIPHY](https://giphy.com/)

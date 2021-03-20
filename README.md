@@ -28,6 +28,7 @@ Este desafio foi proposto per [Milena Caranjo](https://github.com/MilenaCarecho/
 * [16º Dia - Olhos abre e fecha](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#16-dia)
 * [17º Dia - Loader animado](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#17-dia)
 * [18º Dia - Texto esfumaçado](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#18-dia)
+* [19º Dia - Efeitos de animação fundo de partículas ](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#19-dia)
 
 
 ## **[1° Dia](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/1Dia)**
@@ -266,3 +267,18 @@ Texto esfumaçado
 #### ** Fontes externas**
 
 * [GIPHY](https://giphy.com/)
+
+
+### **[19° Dia](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/19Dia)**
+
+ Efeitos de animação fundo de partículas 
+
+![ Efeitos de animação fundo de partículas ](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/main/19Dia/video.gif)
+
+#### **Conceitos utilizados**
+
+* [transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
+* [rotate](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate())
+* [filter](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function) 
+* [Variaveis](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties) 
+* [calc()](https://developer.mozilla.org/en-US/docs/Web/CSS/calc()) 

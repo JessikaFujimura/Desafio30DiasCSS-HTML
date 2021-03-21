@@ -29,6 +29,7 @@ Este desafio foi proposto per [Milena Caranjo](https://github.com/MilenaCarecho/
 * [17º Dia - Loader animado](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#17-dia)
 * [18º Dia - Texto esfumaçado](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#18-dia)
 * [19º Dia - Efeitos de animação fundo de partículas ](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#19-dia)
+* [20º Dia - Efeito nos bracinhos do ursinho ](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#20-dia)
 
 
 ## **[1° Dia](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/1Dia)**
@@ -282,3 +283,17 @@ Texto esfumaçado
 * [filter](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function) 
 * [Variaveis](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties) 
 * [calc()](https://developer.mozilla.org/en-US/docs/Web/CSS/calc()) 
+
+### **[20° Dia](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/19Dia)**
+
+ Efeito nos bracinhos do ursinho 
+
+![ Efeito nos bracinhos do ursinho ](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/main/20Dia/video.gif)
+
+#### **Conceitos utilizados**
+* [::before](https://developer.mozilla.org/en-US/docs/Web/CSS/::before) 
+* [::after](https://developer.mozilla.org/en-US/docs/Web/CSS/::after)  
+* [transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
+* [rotate](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate())
+* [skew](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/skew())
+* [Variaveis](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Using_CSS_custom_properties) 

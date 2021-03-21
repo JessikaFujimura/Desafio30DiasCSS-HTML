@@ -1,0 +1,72 @@
+* {
+    box-sizing: border-box;
+    --main: #bf8e5f;
+    --detail: #a57b51
+}
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: black;
+    color: white;
+}
+
+.head {
+    height: 180px;
+    width: 180px;
+    margin-bottom: -10px;
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn2.iconfinder.com%2Fdata%2Ficons%2Fautumn-38%2F48%2F33-512.png&f=1&nofb=1);
+    background-size: cover;
+    z-index: 1;
+}
+
+.arms {
+    display: flex;
+    height: 23vh;
+    width: 20%;
+    position: relative;
+    background-color:var(--main);
+    border-radius: 60% 60% 0 0;
+    overflow: hidden;
+
+}
+
+.arms::before {
+    content: "";
+    height: 20vh;
+    width: 30%;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    background-color: var(--main);
+    transform: translateY(0%) rotate(270deg) skewX(40deg);
+    border-radius: 0 0 60% 20% ;
+    border: 3px solid var(--detail);
+    transform: all 3s;
+}
+.arms::after {
+    content: "";
+    height: 20vh;
+    width: 30%;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    background-color: var(--main);
+    transform: translateY(0%) rotate(90deg) skew(-40deg);
+    border-radius: 0 0 20% 60% ;
+    border: 3px solid var(--detail);
+    transform: all 3s;
+}
+
+.arms:hover::before {
+    transform: translateY(15%) rotate(300deg) skew(40deg);
+    border-radius: 0 0 50% 50% ;
+}
+.arms:hover::after {
+    transform: translateY(10%) rotate(70deg) skew(-40deg);
+    border-radius: 0 0 50% 50% ;
+}

@@ -31,6 +31,7 @@ Este desafio foi proposto per [Milena Caranjo](https://github.com/MilenaCarecho/
 * [19º Dia - Efeitos de animação fundo de partículas ](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#19-dia)
 * [20º Dia - Efeito nos bracinhos do ursinho ](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#20-dia)
 * [21º Dia -  Esferas quicando ](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#21-dia)
+* [22º Dia -  Ícones com efeito ](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#22-dia)
 
 
 ## **[1° Dia](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/1Dia)**
@@ -303,9 +304,29 @@ Texto esfumaçado
 
  Esferas quicando 
 
-![ Esferas quicando ](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/main/21Dia/video.gif)
+![ Esferas quicando ](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/3becbcb48fdf48415feb2f0ab1b6dcaefd7a9eba/21Dia/video.gif)
 
 #### **Conceitos utilizados**
 * [transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
 * [translateY](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/translateY())
 * [Animation](https://developer.mozilla.org/pt-BR/docs/Web/CSS/animation)
+
+### **[22° Dia](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/22Dia)**
+
+Ícones com efeito
+
+![Ícones com efeito](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/main/22Dia/video.gif)
+
+#### **Conceitos utilizados**
+
+* [hover](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:hover)
+* [::before](https://developer.mozilla.org/en-US/docs/Web/CSS/::before) 
+* [::after](https://developer.mozilla.org/en-US/docs/Web/CSS/::after)  
+* [transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
+* [rotate](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate())
+* [transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
+* [Animation](https://developer.mozilla.org/pt-BR/docs/Web/CSS/animation)
+
+#### ** Fontes externas**
+
+* [Thenounproject](https://thenounproject.com/)

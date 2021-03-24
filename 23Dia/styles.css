@@ -1,0 +1,78 @@
+body {
+    margin:0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    color: white;
+    background-color: rgb(9, 0, 68);
+}
+
+.bell:hover {
+    animation: shake 0.5s linear infinite;
+}
+
+@keyframes shake {
+    0% {
+        transform: rotate(10deg);
+    }
+    50% {
+        transform: rotate(-10deg);
+    }
+    100% {
+        transform: rotate(10deg);
+    }
+}
+
+.bell {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    top: 100px;
+}
+
+.head {
+    height: 280px;
+    width: 240px;
+    border-radius: 70%;
+    background-color: gold;
+    position: absolute;
+    bottom: 50px;
+}
+
+.body {
+    height: 0;
+    width: 100%;
+    border-bottom: 200px solid gold;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+}
+
+
+.hook {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border: 25px solid gold;
+    position: absolute;
+    bottom: 280px;
+}
+
+
+.ball {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: gold;
+    position: absolute;
+    top: 160px;
+}
+
+h1 {
+    position: absolute;
+    top: 50px;
+}

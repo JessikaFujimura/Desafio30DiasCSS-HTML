@@ -32,6 +32,7 @@ Este desafio foi proposto per [Milena Caranjo](https://github.com/MilenaCarecho/
 * [20º Dia - Efeito nos bracinhos do ursinho ](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#20-dia)
 * [21º Dia -  Esferas quicando ](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#21-dia)
 * [22º Dia -  Ícones com efeito ](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#22-dia)
+* [23º Dia - Efeito no sino ](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#23-dia)
 
 
 ## **[1° Dia](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/1Dia)**
@@ -322,7 +323,6 @@ Texto esfumaçado
 * [hover](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:hover)
 * [::before](https://developer.mozilla.org/en-US/docs/Web/CSS/::before) 
 * [::after](https://developer.mozilla.org/en-US/docs/Web/CSS/::after)  
-* [transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
 * [rotate](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate())
 * [transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
 * [Animation](https://developer.mozilla.org/pt-BR/docs/Web/CSS/animation)
@@ -330,3 +330,18 @@ Texto esfumaçado
 #### ** Fontes externas**
 
 * [Thenounproject](https://thenounproject.com/)
+
+
+### **[23° Dia](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/23Dia)**
+
+Efeito no sino
+
+![Efeito no sino](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/main/23Dia/video.gif)
+
+#### **Conceitos utilizados**
+
+* [hover](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:hover)
+* [transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
+* [rotate](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate())
+* [Animation](https://developer.mozilla.org/pt-BR/docs/Web/CSS/animation)
+

@@ -1,0 +1,137 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    background-image: url(https://images2.alphacoders.com/606/thumb-1920-606894.jpg);
+}
+
+.monitor {
+    height: 400px;
+    width: 430px;
+    border: 40px solid rgb(207, 207, 207);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(122, 122, 252);
+    position: relative;
+}
+
+.base {
+    height:0;
+    width: 180px;
+    border-bottom: 80px solid rgb(207, 207, 207);
+    border-left: 40px solid transparent;
+    border-right: 40px solid transparent;
+    z-index: -1;
+    position: absolute;
+    bottom: -80px;
+}
+
+.btn {
+    border-radius: 50%;
+    border: 2px solid black;
+    position: absolute;
+}
+
+.on{
+    width: 15px;
+    height: 15px;
+    bottom: -30px;
+    right: 50px;
+}
+
+.plus {
+    width: 10px;
+    height: 10px;
+    bottom: -30px;
+    right: 80px;
+}
+
+.sub {
+    width: 10px;
+    height: 10px;
+    bottom: -30px;
+    right: 100px;
+}
+
+.screen {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    width:100px;
+    height: 100px;
+    position: relative;
+    animation: animate 1.5s linear infinite;
+    transform: rotate(45deg);
+}
+
+div {
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    animation: rotate 1.5s linear infinite;
+}
+
+div:nth-child(1){
+    background-color: red;
+    top: 0;
+    left: 0;
+    
+}
+
+div:nth-child(2){
+    background-color: rgb(217, 255, 0);
+    top: 0;
+    right:0;
+}
+
+div:nth-child(3){
+    background-color: rgb(255, 0, 255);
+    bottom: 0;
+    left: 0;
+}
+
+div:nth-child(4){
+    background-color: rgb(0, 47, 255);
+    bottom: 0;
+    right: 0;
+}
+
+@keyframes animate {
+    0% {
+        width: 100px;
+        height: 100px;
+    }
+    50% {
+        width: 150px;
+        height: 150px;
+    }
+    90% {
+        width: 100px;
+        height: 100px;
+    }
+    100% {
+        width: 100px;
+        height: 100px;
+    }
+}
+
+@keyframes rotate {
+    0% {
+        transform: rotate(0);
+    }
+    50% {
+        transform: rotate(90deg);
+    }
+    90% {
+        transform: rotate(90deg);
+    }
+    100% {
+        transform: rotate(90deg);
+    }
+}
+

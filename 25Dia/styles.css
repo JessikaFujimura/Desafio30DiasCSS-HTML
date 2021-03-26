@@ -1,0 +1,51 @@
+body {
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    background-color: black;
+    color: white;
+}
+
+section {
+    width: 50vw;
+    display: flex;
+    justify-content:space-around;
+}
+
+p {
+    font-size: 2rem;
+    margin: 3rem 0 3rem;
+}
+
+input {
+    display: none;
+}
+
+label {
+    font-size: 5rem;
+    color: gray;
+}
+
+input[type="checkbox"]:checked + label {
+    filter: hue-rotate(360deg);
+    animation: animate 3s linear infinite;
+}
+
+@keyframes animate {
+    0% {
+        color: yellow;
+    }
+    30% {
+        color: green;
+    }
+    60% {
+        color: red;
+    }
+    100% {
+        color: yellow;
+    }
+}

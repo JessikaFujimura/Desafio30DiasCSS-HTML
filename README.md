@@ -35,6 +35,7 @@ Este desafio foi proposto per [Milena Caranjo](https://github.com/MilenaCarecho/
 * [23º Dia - Efeito no sino ](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#23-dia)
 * [24º Dia - Pre-loader animado ](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#24-dia)
 * [25º Dia - Checkbox animado ](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#25-dia)
+* [26º Dia - Efeito gangorra ](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#26-dia)
 
 
 ## **[1° Dia](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/1Dia)**
@@ -376,3 +377,18 @@ Checkbox animado
 #### ** Fontes externas**
 
 * [Bootstrap icon](https://icons.getbootstrap.com/#icons)
+
+### **[26° Dia](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/26Dia)**
+
+Efeito gangorra
+
+![Efeito gangorra](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/main/26Dia/video.gif)
+
+#### **Conceitos utilizados**
+
+* [::before](https://developer.mozilla.org/en-US/docs/Web/CSS/::before) 
+* [::after](https://developer.mozilla.org/en-US/docs/Web/CSS/::after)  
+* [transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
+* [rotate](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate())
+* [Animation](https://developer.mozilla.org/pt-BR/docs/Web/CSS/animation)
+

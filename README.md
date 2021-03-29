@@ -37,6 +37,7 @@ Este desafio foi proposto per [Milena Caranjo](https://github.com/MilenaCarecho/
 * [25º Dia - Checkbox animado ](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#25-dia)
 * [26º Dia - Efeito gangorra ](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#26-dia)
 * [27º Dia - Efeito pulsar ](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#27-dia)
+* [28º Dia - Tipos de cursores](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#28-dia)
 
 
 ## **[1° Dia](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/1Dia)**
@@ -406,3 +407,18 @@ Efeito pulsar
 * [transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
 * [blur()](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/blur())
 * [Animation](https://developer.mozilla.org/pt-BR/docs/Web/CSS/animation)
+
+
+### **[28° Dia](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/28Dia)**
+
+Tipos de cursores
+
+![Tipos de cursores](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/main/28Dia/video.gif)
+
+#### **Conceitos utilizados**
+
+* [cursor](https://developer.mozilla.org/en-US/docs/Web/CSS/cursor)
+
+#### ** Fontes externas**
+
+* [Thenounproject](https://thenounproject.com/)

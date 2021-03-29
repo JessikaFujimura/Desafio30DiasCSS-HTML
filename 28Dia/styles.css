@@ -1,0 +1,76 @@
+@font-face {
+    font-family: 'Walter';
+    src: url(./Walter.ttf);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    color: white;
+    font-family: 'Walter';
+    font-weight: 900px;
+    font-size: 30px;
+    background:linear-gradient(rgb(6, 0, 41), rgb(13, 0, 88),rgb(177, 185, 233),rgb(255, 255, 255));
+}
+
+section {
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    flex-wrap: wrap-reverse;
+    color: rgb(6, 0, 41);
+}
+
+div {
+    text-align: center;
+    line-height: 100px;
+    height: 100px;
+    width: 300px;
+}
+
+div:nth-child(1) {
+    cursor: wait;
+}
+
+div:nth-child(2) {
+    cursor: help;
+}
+
+div:nth-child(3) {
+    cursor: grab;
+}
+
+div:nth-child(4) {
+    cursor: move;
+}
+
+div:nth-child(5) {
+    cursor: copy;
+}
+
+div:nth-child(6) {
+    cursor: not-allowed;
+}
+
+div:nth-child(7) {
+    cursor: zoom-in;
+}
+
+div:nth-child(8) {
+    cursor: nwse-resize;
+}
+
+div:nth-child(9) {
+    cursor: url(./assets/minnie.png), auto;
+}
+
+div:nth-child(10) {
+    cursor: url(./assets/mickey.png), auto;
+}
+

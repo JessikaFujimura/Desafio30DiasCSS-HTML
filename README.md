@@ -37,7 +37,7 @@ Este desafio foi proposto per [Milena Caranjo](https://github.com/MilenaCarecho/
 * [25º Dia - Checkbox animado ](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#25-dia)
 * [26º Dia - Efeito gangorra ](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#26-dia)
 * [27º Dia - Efeito pulsar ](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#27-dia)
-* [28º Dia - Tipos de cursores](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#28-dia)
+* [28º Dia - Alguns tipos de cursores](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#28-dia)
 
 
 ## **[1° Dia](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/1Dia)**
@@ -411,9 +411,9 @@ Efeito pulsar
 
 ### **[28° Dia](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/28Dia)**
 
-Tipos de cursores
+Alguns tipos de cursores
 
-![Tipos de cursores](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/main/28Dia/video.gif)
+![Tipos de cursores](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/ccc41fc6376119c5507e0d23b7a6422827f3afc6/28Dia/video.gif)
 
 #### **Conceitos utilizados**
 

@@ -1,0 +1,95 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    width: 100vw;
+    height: 10vh;
+    padding: 0 5vh;
+    border-bottom: 2px solid gray;
+    position: relative;
+    background-color: rgb(157, 196, 153);
+}
+
+.option {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 50vw;
+}
+
+a {
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: #000000;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+}
+
+.menu[type=checkbox] {
+    opacity: 0;
+}
+
+.menu ~ i{
+    display: none;
+}
+
+a:hover {
+    color: chartreuse;
+}
+
+@media screen and (max-width: 450px) {
+    .menu ~ i {
+        display: flex;
+        font-size: 35px;
+    }
+
+    .menu {
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        right: 5vw;
+    }
+
+
+    .menu[type=checkbox]:checked ~ .option {
+        display: flex;
+        flex-direction: column;
+        width: 100vw;
+        position: absolute;
+        top: 10vh;
+        right: 0;
+    }
+
+
+    .option {
+        display: none;
+        text-align: center;
+        background-color: white;
+    }
+
+    a {
+        height: 8vh;
+        line-height: 8vh;
+        border: 2px solid rgb(194, 194, 194);
+    }
+}

@@ -166,7 +166,7 @@ Animação com texto
 * [content](https://developer.mozilla.org/en-US/docs/Web/CSS/content)  
 * [url()](https://developer.mozilla.org/en-US/docs/Web/CSS/url())
 
-#### ** Fontes externas**
+#### **Fontes externas**
 
 * [Google fonts](https://fonts.google.com/specimen/DotGothic16?preview.text_type=custom)
 * [Thenounproject](https://thenounproject.com/)
@@ -220,7 +220,7 @@ Fundo de texto animado
 * [background-clip](https://developer.mozilla.org/en-US/docs/Web/CSS/background-clip) 
 * [background-position](https://developer.mozilla.org/en-US/docs/Web/CSS/background-position)  
 
-#### ** Fontes externas**
+#### **Fontes externas**
 
 * [GIPHY](https://giphy.com/)
 
@@ -273,7 +273,7 @@ Texto esfumaçado
 * [filter](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function) 
 * [blur()](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/blur())  
 
-#### ** Fontes externas**
+#### **Fontes externas**
 
 * [GIPHY](https://giphy.com/)
 
@@ -332,7 +332,7 @@ Texto esfumaçado
 * [transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
 * [Animation](https://developer.mozilla.org/pt-BR/docs/Web/CSS/animation)
 
-#### ** Fontes externas**
+#### **Fontes externas**
 
 * [Thenounproject](https://thenounproject.com/)
 
@@ -376,7 +376,7 @@ Checkbox animado
 * [checkbox](https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/input/checkbox)
 * [Animation](https://developer.mozilla.org/pt-BR/docs/Web/CSS/animation)
 
-#### ** Fontes externas**
+#### **Fontes externas**
 
 * [Bootstrap icon](https://icons.getbootstrap.com/#icons)
 
@@ -419,7 +419,7 @@ Alguns tipos de cursores
 
 * [cursor](https://developer.mozilla.org/en-US/docs/Web/CSS/cursor)
 
-#### ** Fontes externas**
+#### **Fontes externas**
 
 * [Thenounproject](https://thenounproject.com/)
 
@@ -435,6 +435,6 @@ Menu hambúrguer responsivo
 * [general sibling](https://developer.mozilla.org/en-US/docs/Web/CSS/General_sibling_combinator)
 * [media query](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Media_queries)
 
-#### ** Fontes externas**
+#### **Fontes externas**
 
 * [Bootstrap icon](https://icons.getbootstrap.com/#icons)

@@ -39,6 +39,7 @@ Este desafio foi proposto per [Milena Caranjo](https://github.com/MilenaCarecho/
 * [27º Dia - Efeito pulsar ](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#27-dia)
 * [28º Dia - Alguns tipos de cursores](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#28-dia)
 * [29º Dia - Menu hambúrguer responsivo](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#29-dia)
+* [30º Dia - Fogos de artifícios](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML#30-dia)
 
 ## **[1° Dia](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/1Dia)**
 
@@ -423,7 +424,6 @@ Alguns tipos de cursores
 
 * [Thenounproject](https://thenounproject.com/)
 
-
 ### **[29° Dia](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/29Dia)**
 
 Menu hambúrguer responsivo
@@ -438,3 +438,20 @@ Menu hambúrguer responsivo
 #### **Fontes externas**
 
 * [Bootstrap icon](https://icons.getbootstrap.com/#icons)
+
+
+### **[30° Dia](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/tree/main/30Dia)**
+
+Fogos de artifícios
+
+![Fogos de artifícios](https://github.com/JessikaFujimura/Desafio30DiasCSS-HTML/blob/main/30Dia/video.gif)
+
+#### **Conceitos utilizados**
+
+* [::before](https://developer.mozilla.org/en-US/docs/Web/CSS/::before) 
+* [transform](https://developer.mozilla.org/en-US/docs/Web/CSS/transform)
+* [::nth-child](https://developer.mozilla.org/en-US/docs/Web/CSS/:nth-child)
+
+#### **Fontes externas**
+
+* [GIPHY](https://giphy.com/)

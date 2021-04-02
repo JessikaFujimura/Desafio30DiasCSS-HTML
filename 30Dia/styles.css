@@ -1,0 +1,131 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+}
+
+.firework {
+    position: absolute;
+}
+
+.spark {
+    width: 4px;
+    height: 50px;
+    position: absolute;
+    left: -2px;
+    bottom: 0;
+    transform-origin: 50% 100%;
+    overflow: hidden;
+}
+
+.spark:nth-child(1){
+    transform: rotate(30deg) translateY(-15px);
+}
+.spark:nth-child(2){
+    transform: rotate(60deg) translateY(-15px);
+}
+.spark:nth-child(3){
+    transform: rotate(90deg) translateY(-15px);
+}
+.spark:nth-child(4){
+    transform: rotate(120deg) translateY(-15px);
+}
+.spark:nth-child(5){
+    transform: rotate(150deg) translateY(-15px);
+}
+.spark:nth-child(6){
+    transform: rotate(180deg) translateY(-15px);
+}
+.spark:nth-child(7){
+    transform: rotate(210deg) translateY(-15px);
+}
+.spark:nth-child(8){
+    transform: rotate(240deg) translateY(-15px);
+}
+.spark:nth-child(9){
+    transform: rotate(270deg) translateY(-15px);
+}
+.spark:nth-child(10){
+    transform: rotate(300deg) translateY(-15px);
+}
+.spark:nth-child(11){
+    transform: rotate(330deg) translateY(-15px);
+}
+.spark:nth-child(12){
+    transform: rotate(360deg) translateY(-15px);
+}
+
+.spark::before {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    height: 40px;
+}
+
+.one {
+    top: 40vh;
+    left: 20vw;
+    transform: scale(1.5);
+}
+
+.one .spark::before {
+    animation: explosion 2s ease-in-out infinite;
+    background-color: rgb(255, 166, 0);
+}
+
+.two {
+    top: 60vh;
+    left: 80vw;
+    transform: scale(1);
+}
+
+.two .spark::before {
+    animation: explosion 2s ease-in-out 0.6s infinite;
+    background-color: rgb(60, 255, 0);
+}
+
+.three {
+    top: 15vh;
+    left: 50vw;
+    transform: scale(0.5);
+}
+
+.three .spark::before {
+    animation: explosion 2s ease-in-out 1.2s infinite;
+    background-color: rgb(255, 0, 0);
+}
+
+@keyframes explosion {
+    0% {
+        top: 100%;
+    }
+    100% {
+        top: -80%;
+    }
+}
+
+.text {
+    width: 60vw;
+    height: 30vh;
+    position: absolute;
+    text-align: center;
+    top: 25vh;
+    left: 20vw;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 8rem;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    background-image: url(https://jooinn.com/images/sun-shining-through-1.png);
+    background-position: center;
+    margin-block: 0;
+}
